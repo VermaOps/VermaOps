@@ -88,7 +88,7 @@ Web • Mobile • APISec • Vibe Coder
 <img src="https://cdn.simpleicons.org/paypal/58A6FF" height="42" />
 </a>
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&random=false&width=750&lines=Thanks+For+The+Visit!;Thank+You+For+Your+Support!;Keep+Breaking+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=1000&lines=Thanks+For+The+Visit!;Thank+You+For+Your+Support!;Keep+Breaking+Systems" />
 
 </div>
 
@@ -98,7 +98,7 @@ Web • Mobile • APISec • Vibe Coder
 # ⚡ Security Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=900&height=80&lines=%3E+Every+vulnerability+I+find+today...;...is+a+breach+that+never+happens+tomorrow.;%3E+I+break+things+so+they+can+be+rebuilt+stronger.;%3E+The+real+vulnerability+is+between+keyboard+and+chair.;%3E+Trust+is+a+vulnerability.;%3E+Assume+breach.;%3E+Verify+everything.;%3E+Hack+with+purpose.;%3E+Build+with+intent." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0078D4&center=true&vCenter=true&width=1000&lines=%3E+Every+vulnerability+I+find+today...;...is+a+breach+that+never+happens+tomorrow.;%3E+I+break+things+so+they+can+be+rebuilt+stronger.;%3E+The+real+vulnerability+is+between+keyboard+and+chair.;%3E+Trust+is+a+vulnerability.;%3E+Assume+breach.;%3E+Verify+everything.;%3E+Hack+with+purpose.;%3E+Build+with+intent." />
 </p>
 
 <p align="center">
