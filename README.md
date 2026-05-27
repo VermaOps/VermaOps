@@ -63,7 +63,7 @@ Web • Mobile • APISec • Vibe Coder
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VermaOps&theme=github-dark&hide_border=true&background=242933" />
+  <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=VermaOps&theme=github-dark&hide_border=true&background=242933" />
 </p>
 
 ---
